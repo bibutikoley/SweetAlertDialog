@@ -14,9 +14,9 @@ This is the Sweet Alert Dialog Library.
 	}
 
 2. Add this to your App level gradle file.
-  	
-    dependencies {
-		implementation 'com.github.User:Repo:Tag'
+
+	dependencies {
+		implementation 'com.github.bibutikoley:SweetAlertDialog:1.0'
 	}
   
  Thats it..
