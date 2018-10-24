@@ -16,6 +16,7 @@ This is the Sweet Alert Dialog Library.
 ```
 
 2. Add this to your App level gradle file.
+
 if using support library 28 use-
 ```
 	dependencies {
